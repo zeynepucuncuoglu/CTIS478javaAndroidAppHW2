@@ -1,0 +1,100 @@
+{
+  "zodiacs":[
+    {
+      "name":"Aries",
+      "time":"March 21-April 19",
+      "stone":"Amethyst",
+      "color":"red",
+      "element": "fire",
+      "planet": "Mars"
+    },
+    {
+      "name":"Taurus",
+      "time":"April 20-May 20",
+      "stone":"1982",
+      "color":"green",
+      "element":"jade",
+      "planet":"Venus"
+    },
+    {
+      "name":"Gemini",
+      "time":"May 21-June 20",
+      "stone":"1982",
+      "color":"light blue",
+      "element":"air",
+      "planet": "Mercury"
+    },
+    {
+      "name":"Cancer",
+      "time":"June 21-July 22",
+      "stone":"moonstone",
+      "color":"silver",
+      "element": "water",
+      "planet": "moon"
+    },
+    {
+      "name": "Leo",
+      "time": "July 23-August 22",
+      "stone": "Ruby",
+      "color": "yellow",
+      "element": "Fire",
+      "planet": "Sun"
+    },
+    {
+      "name":"Virgo",
+      "time":"August 23-September 22",
+      "stone":"moss agate",
+      "color":"beige",
+      "element": "earth",
+      "planet": "Mercury"
+    },
+    {
+      "name":"Libra",
+      "time":"September 23-October 22",
+      "stone":"opal",
+      "color":"pink",
+      "element": "air",
+      "planet": "venus"
+    },
+    {
+      "name":"Scorpio",
+      "time":"October 23-November 21",
+      "stone":"obsdyen",
+      "color":"black",
+      "element": "water",
+      "planet": "mars"
+    },
+    {
+      "name":"Sagittarius",
+      "time":"November 22-December 21",
+      "stone":"diamond",
+      "color":"purple",
+      "element": "fire",
+      "planet": "jupiter"
+    },
+    {
+      "name":"Capricorn",
+      "time":"December 22-January 19",
+      "stone":"Blue sapphire",
+      "color":"dark green",
+      "element": "Earth",
+      "planet": "Saturn"
+    },
+    {
+      "name":"Aquarius",
+      "time":"January 20-February 18",
+      "stone":"Angelite",
+      "color":"blue",
+      "element":"Air",
+      "planet":"Saturn"
+    },
+    {
+      "name":"Pisces",
+      "time":"February 19-March 20",
+      "stone":"Aquamarine",
+      "color":"lilac",
+      "element": "Water",
+      "planet": "Neptune"
+    }
+  ]
+}
